@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"BlueRoom","order":1,"parentId":0,"scrollX":908,"scrollY":674.5},
-{"id":2,"expanded":true,"name":"Sanity system test","order":2,"parentId":0,"scrollX":1210.6666666666667,"scrollY":899.3333333333334},
+{"id":1,"expanded":true,"name":"BlueRoom","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Sanity system test","order":2,"parentId":0,"scrollX":658,"scrollY":434.3333333333333},
 {"id":3,"expanded":true,"name":"Floor1","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Bathroom","order":4,"parentId":3,"scrollX":1210.6666666666667,"scrollY":899.3333333333334},
-{"id":5,"expanded":true,"name":"destroyed door room","order":5,"parentId":3,"scrollX":1210.6666666666667,"scrollY":899.3333333333334},
-{"id":6,"expanded":false,"name":"Secrect Room","order":6,"parentId":3,"scrollX":816,"scrollY":900}
+{"id":4,"expanded":true,"name":"Bathroom","order":4,"parentId":3,"scrollX":545,"scrollY":413.5},
+{"id":5,"expanded":true,"name":"destroyed door room","order":5,"parentId":3,"scrollX":545,"scrollY":557.5},
+{"id":6,"expanded":false,"name":"Secrect Room","order":6,"parentId":3,"scrollX":463,"scrollY":609.5}
 ]
