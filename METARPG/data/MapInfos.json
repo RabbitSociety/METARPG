@@ -1,21 +1,21 @@
 [
 null,
-{"id":1,"expanded":true,"name":"BlueRoom","order":1,"parentId":0,"scrollX":789.6,"scrollY":521.2},
+{"id":1,"expanded":true,"name":"Claras Room","order":1,"parentId":0,"scrollX":789.6,"scrollY":521.2},
 {"id":2,"expanded":true,"name":"Sanity system test","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Floor1","order":3,"parentId":0,"scrollX":789.6,"scrollY":521.2},
 {"id":4,"expanded":true,"name":"Bathroom","order":4,"parentId":3,"scrollX":789.6,"scrollY":521.2},
 {"id":5,"expanded":true,"name":"destroyed door room","order":5,"parentId":3,"scrollX":789.6,"scrollY":521.2},
 {"id":6,"expanded":false,"name":"Secret Room","order":6,"parentId":3,"scrollX":783.2,"scrollY":782},
 {"id":7,"expanded":true,"name":"Floor3","order":7,"parentId":0,"scrollX":783.2,"scrollY":550.8},
-{"id":8,"expanded":true,"name":"collapsed_room","order":8,"parentId":7,"scrollX":789.6,"scrollY":521.2},
+{"id":8,"expanded":true,"name":"L3 collapsed room","order":8,"parentId":7,"scrollX":789.6,"scrollY":521.2},
 {"id":9,"expanded":true,"name":"rooftop","order":9,"parentId":0,"scrollX":1316,"scrollY":1152.4},
 {"id":10,"expanded":true,"name":"corridor","order":11,"parentId":11,"scrollX":789.6,"scrollY":521.2},
-{"id":11,"expanded":true,"name":"Floor2","order":10,"parentId":9,"scrollX":783.2,"scrollY":566.8},
-{"id":12,"expanded":true,"name":"corridor_end","order":12,"parentId":10,"scrollX":789.6,"scrollY":521.2},
+{"id":11,"expanded":true,"name":"Floor2","order":10,"parentId":9,"scrollX":783.2,"scrollY":918.8},
+{"id":12,"expanded":true,"name":"corridor end","order":12,"parentId":10,"scrollX":789.6,"scrollY":521.2},
 {"id":13,"expanded":true,"name":"executive office","order":13,"parentId":11,"scrollX":789.6,"scrollY":521.2},
 {"id":14,"expanded":true,"name":"unfinish office","order":15,"parentId":11,"scrollX":789.6,"scrollY":521.2},
 {"id":15,"expanded":false,"name":"empty room","order":14,"parentId":11,"scrollX":842.4,"scrollY":514.8},
 {"id":16,"expanded":true,"name":"server room","order":16,"parentId":11,"scrollX":789.6,"scrollY":521.2},
 {"id":17,"expanded":false,"name":"odd server room","order":17,"parentId":16,"scrollX":789.6,"scrollY":521.2},
-{"id":18,"expanded":false,"name":"collapse room","order":18,"parentId":11,"scrollX":789.6,"scrollY":521.2}
+{"id":18,"expanded":false,"name":"L2 collapsed room","order":18,"parentId":11,"scrollX":789.6,"scrollY":521.2}
 ]
