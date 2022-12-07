@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Claras Room","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":true,"name":"Sanity system test","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":true,"name":"Floor1","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Floor1","order":3,"parentId":0,"scrollX":652.6666666666666,"scrollY":720.3333333333334},
 {"id":4,"expanded":true,"name":"bathroom","order":4,"parentId":3,"scrollX":1981.0909090909092,"scrollY":1471.6363636363637},
 {"id":5,"expanded":true,"name":"meeting room","order":5,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"secret Room","order":6,"parentId":3,"scrollX":1362,"scrollY":1011.75},
@@ -18,8 +18,8 @@ null,
 {"id":16,"expanded":true,"name":"server room","order":13,"parentId":11,"scrollX":1362,"scrollY":1011.75},
 {"id":17,"expanded":false,"name":"changed server room","order":14,"parentId":16,"scrollX":832,"scrollY":640},
 {"id":18,"expanded":false,"name":"L2 collapsed room","order":15,"parentId":11,"scrollX":1981.0909090909092,"scrollY":1471.6363636363637},
-{"id":19,"expanded":true,"name":"Basement","order":19,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":19,"expanded":true,"name":"Basement","order":19,"parentId":0,"scrollX":658,"scrollY":434.3333333333333},
 null,
 {"id":21,"expanded":false,"name":"basement end","order":21,"parentId":22,"scrollX":1089.6,"scrollY":809.4},
-{"id":22,"expanded":false,"name":"corridor","order":20,"parentId":19,"scrollX":1981.0909090909092,"scrollY":1471.6363636363637}
+{"id":22,"expanded":false,"name":"corridor","order":20,"parentId":19,"scrollX":652.6666666666666,"scrollY":434.3333333333333}
 ]
