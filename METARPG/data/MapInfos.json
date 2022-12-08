@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Claras Room","order":1,"parentId":0,"scrollX":658,"scrollY":434.3333333333333},
+{"id":1,"expanded":true,"name":"Claras Room","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":true,"name":"Sanity system test","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Floor1","order":3,"parentId":0,"scrollX":652.6666666666666,"scrollY":467},
 {"id":4,"expanded":true,"name":"bathroom","order":4,"parentId":3,"scrollX":658,"scrollY":434.3333333333333},
@@ -21,5 +21,5 @@ null,
 {"id":19,"expanded":true,"name":"Basement","order":19,"parentId":0,"scrollX":658,"scrollY":434.3333333333333},
 null,
 {"id":21,"expanded":false,"name":"basement end","order":21,"parentId":22,"scrollX":1089.6,"scrollY":809.4},
-{"id":22,"expanded":false,"name":"corridor","order":20,"parentId":19,"scrollX":652.6666666666666,"scrollY":727.6666666666666}
+{"id":22,"expanded":false,"name":"corridor","order":20,"parentId":19,"scrollX":816,"scrollY":728}
 ]
